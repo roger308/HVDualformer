@@ -1,5 +1,5 @@
-# HVDualformer: Histogram-Vision Dual Transformer for White Balance
-Pytorch Implementation of HVDualformer: Histogram-Vision Dual Transformer for White Balance (AAAI2025)
+# HVDualformer: Histogram-Vision Dual Transformer for White Balance (AAAI2025)
+Pytorch Implementation of HVDualformer: Histogram-Vision Dual Transformer for White Balance 
 
 ## Abstract
 Capturing images under different color temperatures can result in color casts, causing the presented color in photos to differ from what is perceived by the human eye. Correcting these color temperature shifts to achieve White Balance (WB) is a challenging task, requiring the identification of variations in color tones from diverse light sources and pinpointing a reference point to remove color casts. 
