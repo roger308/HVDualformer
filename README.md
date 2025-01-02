@@ -1,4 +1,4 @@
-# HVDualformer: Histogram-Vision Dual Transformer for White Balance (AAAI2025)
+# HVDualformer: Histogram-Vision Dual Transformer for White Balance (AAAI'25)
 Pytorch Implementation of HVDualformer: Histogram-Vision Dual Transformer for White Balance 
 
 ## Abstract
